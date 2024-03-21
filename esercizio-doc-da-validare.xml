@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- documento xml da validare -->
+<!-- 
+    file: esercizio-doc-da-validare
+    nome: ALESSANDRA CARIDI
+    data: 8/03/24
+-->
+
+<!-- corpo del documento XML-->
+<elementoRadice>
+    <elementoFiglio>
+        <elementoAnnidato>
+        </elementoAnnidato>
+    </elementoFiglio>
+     <elementoFiglioaggiunto>
+        </elementoFiglioaggiunto> <!--Aggiungo l'elemento figlio-->
+    <elementoFiglio>
+        <elementoAnnidato>
+            </elementoAnnidato> <!--Aggiungo la chiusura all'elemento annidato-->
+            <elementoFiglio>
+            </elementoFiglio> <!--Aggiungo una chiusura all'elementoFiglio-->
+    </elementoFiglio>
+     <elementoFratello>
+     </elementoFratello> <!--Aggiungo elementoFratello-->   
+     <elementoAnnidato>
+     <elementoFiglio>
+     </elementoFiglio>
+     </elementoAnnidato> <!--Aggiungo la chiusura all'elemento Annidato-->
+    <elementoFiglio></elementoFiglio>
+</elementoRadice>
+
+<!-- epilogo -->
